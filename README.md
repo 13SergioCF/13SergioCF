@@ -4,7 +4,7 @@
   <a href="https://github.com/SergioCanaviri">
     <img src="https://img.shields.io/github/followers/SergioCanaviri?label=Followers&style=social" alt="GitHub Badge">
   </a>
-  <a href="https://www.linkedin.com/in/sergiocanaviri/">
+  <a href="https://www.linkedin.com/in/sergio-canaviri-felix-a21736312/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
