@@ -79,4 +79,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SergioCanaviri&theme=darkhub" alt="Sergio's GitHub Trophies">
 </div>
 
+<h2 align="center">📹 My YouTube Channel</h2>
 
+<p align="center">
+  <a href="https://youtu.be/JedqU_14pS4">
+    <img src="https://img.youtube.com/vi/JedqU_14pS4/0.jpg" alt="Video 1" width="45%">
+  </a>
+  <a href="https://youtu.be/jNVsL7RHjAY">
+    <img src="https://img.youtube.com/vi/jNVsL7RHjAY/0.jpg" alt="Video 2" width="45%">
+  </a>
+  <a href="https://youtu.be/QWHOSemhfYE">
+    <img src="https://img.youtube.com/vi/QWHOSemhfYE/0.jpg" alt="Video 3" width="45%">
+  </a>
+</p>
